@@ -1,8 +1,8 @@
-# SB-Net (Refactored)
+# SB-Net
 
 > **Implementation of the paper:** *"SB-Net: A Novel Spam Botnet Detection Scheme With Two-Stage Cascade Learner and Ensemble Feature Selection"* [DOI: 10.1109/OJCOMS.2025.3603425](https://doi.org/10.1109/OJCOMS.2025.3603425)
 
-This repository is a **refactored version** of the original [SB-Net project](https://github.com/IrsyadFikriansyah/SB-Net), featuring minor bug fixes, improved documentation, and enhanced code organization.
+This repository is the **latest version** of the original [SB-Net project](https://github.com/IrsyadFikriansyah/SB-Net), featuring minor bug fixes, improved documentation, and enhanced code organization.
 
 ---
 
