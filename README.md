@@ -1,6 +1,7 @@
 # SB-Net
 
 > **Implementation of the paper:** *"SB-Net: A Novel Spam Botnet Detection Scheme With Two-Stage Cascade Learner and Ensemble Feature Selection"* [DOI: 10.1109/OJCOMS.2025.3603425](https://doi.org/10.1109/OJCOMS.2025.3603425)
+> **SoftwareX paper:** SB-Net: Software for classifying botnet attacks to prevent comprehensive infection [DOI: 10.1016/j.softx.2026.102672] (https://doi.org/10.1016/j.softx.2026.102672)
 
 This repository is the **latest version** of the original [SB-Net project](https://github.com/IrsyadFikriansyah/SB-Net), featuring minor bug fixes, improved documentation, and enhanced code organization.
 
